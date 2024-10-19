@@ -1,0 +1,202 @@
+#sec2{
+    background-image: url("brisk.jpg");
+    background-size: cover;
+    text-align: center;
+    height: 800px;
+    
+}
+.bx1{
+  padding:300px 0px;
+    
+}
+
+#sec3{
+    height: auto;
+    background-image: url(pexels-lukas-618775.jpg);
+    background-size: cover;  
+    height: 300px;
+    text-align: center;
+}
+.bx2{
+    padding: 100px 0px;
+    text-align: center;
+    min-height: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+#sec4{
+   background-image:url(resturant.jpg);
+   background-size:cover;
+   height:500px;
+   text-align:center;
+   padding:200px 0px;
+} 
+.line6{
+    height: 5px;
+    width: 600px;
+    background-color: white;
+    margin: auto;
+}
+.h2{
+  font-size: 40px;
+}
+#sec5{
+    background-image:url(beef.jpg);
+    background-size:cover;
+    height:500px;
+    text-align:center;
+    padding:200px 0px;
+ }
+#sec6{
+    background-image: url(chef.jpg);
+    background-size: cover;
+}
+
+
+
+   
+ .bx5{
+    padding: 100px 0px;
+    text-align: center;
+    width:100%;
+    min-height: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ 
+ .overlay{
+    background-color: rgba(255, 255, 255, 0.575);
+ }
+
+ #sec7{
+    background-image: url(CO.jpg);
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+    padding: 100px 0px;
+ }
+ .line7{
+    height: 3px;
+    width:1000px;
+    background-color: rgb(245, 243, 243);
+    margin: auto;
+ }
+
+ #sec8{
+    background-image: url(couple.jpg);
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+    padding: 200px 0px;
+ }
+
+ #sec9{
+    background-image: url(fam.jpg);
+    background-size: cover;
+ }
+
+ .bx8{
+    padding: 100px 0px;
+    text-align: center;
+    width:100%;
+    min-height: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+
+ .overlay{
+    background-color: rgba(255, 255, 255, 0.575);
+ }
+
+ #sec10{
+    background-image: url(chef.jpg);
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+    padding: 200px 0px;
+ }
+ .line6{
+  height: 3px;
+  width: 800px;
+  background-color: white;
+  margin: auto;
+ }
+ #sec11{
+   background-color: rgb(15, 14, 14);
+
+ }
+ .bx10{
+     padding:100px 0px 40px 0px;
+     text-align: center;
+     min-height: 300px;
+     
+ }
+ .p1{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ .bx12{
+   font-size:50px;
+   text-align:right;
+ }
+
+ #sec12{
+   background-color: rgb(70, 65, 65);
+   padding: 0px 100px;
+ }
+
+ .bx12{
+   text-align: right;
+ }
+
+
+ .line1{
+   height: 1.5px;
+   width: 100%;
+   background-color: white;
+ }
+
+ .line2{
+   height: 1.5px;
+   width: 90%;
+   background-color: white;
+   margin-top: 20px;
+
+ }
+
+ .line3{
+   height: 1.5px;
+   width: 80%;
+   background-color: white;
+   margin-top: 20px;
+
+ }
+
+ .line4{
+   height: 1.5px;
+   width: 70%;
+   background-color: white;
+   margin-top: 20px;
+ 
+ }
+
+ .line5{
+   height: 1.5px;
+   width: 60%;
+   background-color: white;
+   margin-top: 20px;
+
+ }
+ .line-container{
+   padding: 1% 0;
+ }
+
+ .line-container-two{
+   padding: 1% 0;
+    transform: rotateY(180deg);
+  
+ }
+ .line-container-three{
+   padding: 100px 0;
+ 
+ }
+
+ 
